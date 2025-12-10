@@ -1,4 +1,4 @@
-<a href="https://snakke.vercel.app"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Snakkey's Dev Bio Card"/></a>
+<a href="https://app.daily.dev/snakke"><img src="https://api.daily.dev/devcards/v2/MZPeZRDSqEv86HqgjNiCq.png?r=5pp&type=wide" width="652" alt="Snakke's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bre4d777\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/bre4d777)
 ## About Me :
 
