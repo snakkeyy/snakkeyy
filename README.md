@@ -15,3 +15,16 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## My GitHub Stats  
+
+<div align="center">
+
+| ![Stats Graph](https://gaeuly-github-readme-stats.vercel.app/api?username=Gaeuly&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github) | ![Languages Graph](https://gaeuly-github-readme-stats.vercel.app/api/top-langs?username=Gaeuly&layout=donut&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true) |
+|---|---|
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaeuly&theme=midnight-purple&hide_border=true" />
+</p>
