@@ -1,8 +1,7 @@
-<a href="https://app.daily.dev/snakke"><img src="https://api.daily.dev/devcards/v2/MZPeZRDSqEv86HqgjNiCq.png?r=5pp&type=wide" width="652" alt="Snakke's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=snakkeyy\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/snakkeyy)
 ## About Me :
 
-- 🏢 I am currently working as a **+1 Student** 
+- 🏢 I am currently working on Discord **Hela Music Bot** 
 - My main language is Malayalam but I also speak Javascript And Python sometimes
 - Database: well I can do PostgreSQL, MongoDB, SQLite but I prefer SQLITE
 - Preference: Never Tell To You 😁 
@@ -16,9 +15,3 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-#  GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=snakkeyy&theme=merko&hide_border=true)<br/>
-
-
----
