@@ -17,12 +17,7 @@
 
 
 ---
-
-🌌 Viocord Profile
-
-![Viocord](http://176.100.37.91:30052/api/widget/1383035077679779953)
-
-🛠️ Tech Stack
+-🛠️ Tech Stack
 
 💻 Languages
 
