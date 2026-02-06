@@ -1,38 +1,53 @@
 <p align="center">
   <img src="header.svg" alt="Header" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Snake</h1>
+</p><h1 align="center">Hi 👋, I'm Snake</h1>
 <h3 align="center">A Passionate Developer</h3>
+---
+
+👨‍💻 About Me
+
+🔭 I’m currently working on Discord Music Bot
+
+🌱 I’m learning Advanced JavaScript, Backend, and System Design
+
+💬 Ask me about JavaScript, Node.js, Python
+
+⚡ Fun fact: I love building clean UIs and solving bugs at 2 AM 😄
+
+
 
 ---
 
-## 👨‍💻 About Me
+🌌 Viocord Profile
 
-- 🔭 I’m currently working on **Discord Music Bot**
-- 🌱 I’m learning **Advanced JavaScript, Backend, and System Design**
-- 💬 Ask me about **JavaScript, Node.js, Python**
-- ⚡ Fun fact: I love building clean UIs and solving bugs at 2 AM 😄
+<p align="center">
+  <a href="http://176.100.37.91:30052/profile.html?id=1383035077679779953">
+    <img src="http://176.100.37.91:30052/api/widget/1383035077679779953" alt="Viocord Widget" />
+  </a>
+</p><p align="center">
+  <b>Powered by Viocord API</b> 💜 <br>
+  A Project By <b>snakkeyy</b>
+</p>
+---
+
+🛠️ Tech Stack
+
+💻 Languages
+
+ 
+
+🌐 Frontend
+
+ 
+
+🔧 Backend & Tools
+
+ 
+
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
----
-
-## 🌍 Connect With Me
+🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/snakkeyy">
@@ -45,13 +60,15 @@
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 ---
 
-## ✨ Quote
+✨ Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
+
+
+
 ---
 
-⭐️ From [Snakke](https://github.com/snakkeyy)
+⭐️ From Snakke
