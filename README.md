@@ -20,15 +20,7 @@
 
 🌌 Viocord Profile
 
-<p align="center">
-  <a href="http://176.100.37.91:30052/profile.html?id=1383035077679779953">
-    <img src="http://176.100.37.91:30052/api/widget/1383035077679779953" alt="Viocord Widget" />
-  </a>
-</p><p align="center">
-  <b>Powered by Viocord API</b> 💜 <br>
-  A Project By <b>snakkeyy</b>
-</p>
----
+![Viocord](http://176.100.37.91:30052/api/widget/1383035077679779953)
 
 🛠️ Tech Stack
 
